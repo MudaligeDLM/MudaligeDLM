@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denura Mudalige</h1>
-<h3 align="center">Undergraduate in SLIIT @Sri Lanka.</h3>
+<h3 align="center">Fresh Graduate in Sri Lanka Institute of Information Technology @Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudaligedlm&label=Profile%20views&color=0e75b6&style=flat" alt="mudaligedlm" /> </p>
 
